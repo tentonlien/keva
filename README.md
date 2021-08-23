@@ -1,3 +1,3 @@
 ![](doc/logo/logo.png)
 
-# Keva: A simple In-Memory Data Structure Store
+# Keva: A Simple In-Memory Data Structure Store
